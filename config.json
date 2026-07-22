@@ -1,5 +1,6 @@
 {
   "baseUrl": "https://jump-6xxc.onrender.com",
   "maintenance": false,
-  "message": "Service is temporarily unavailable. Please try again later."
+  "message": "Service is temporarily unavailable. Please try again later.",
+  "minVersion": "1.0"
 }
