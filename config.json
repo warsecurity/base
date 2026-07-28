@@ -1,5 +1,5 @@
 {
-  "baseUrl": "http://app.poolwin.co.ke",
+  "baseUrl": "https://app.poolwin.co.ke",
   "maintenance": false,
   "message": "Service is temporarily unavailable. Please try again later.",
   "minVersion": "1.0"
